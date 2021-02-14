@@ -38,3 +38,4 @@ docker volume create first-volume
 ```
 
 ### Docker Compose Nedir?
+Docker Compose , container içinde çalışabilen uygulamaların, tek bir komutla ayaklandırılıp durdurulabilmesine olanak sağlayan “yml” tabanlı bir dosyadır. “version”,”services”,”networks” ve “volumes” olarak tanımlanan 4 ana parçacıktan oluşur.
