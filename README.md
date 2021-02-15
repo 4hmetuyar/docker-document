@@ -42,3 +42,5 @@ Docker Compose , container içinde çalışabilen uygulamaların, tek bir komutl
 
 ### Docker Bind Mount Nedir ?
 
+Volume kavramının yetenekleri kısıtlanmış hali olarak tanımlanabilmektedir. Sadece runtime zamanında kullanılabilmektedir. Ve aslında host üzerinde bulunan bir alanın containera bağlanması anlamına gelmektedir.
+
