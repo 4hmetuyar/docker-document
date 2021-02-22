@@ -1,11 +1,5 @@
 # Giriş
 
-## Kurulum
-
-```
-
-```
-
 ### Docker içinde en çok kullanılan komutlar.
 
 ```
