@@ -18,6 +18,7 @@
 -docker container rm -f [id] bu komut çalışan container silmenizi sağlar
 -docker container prıne => sistemde çalışan stop haldeki tüm containerları siller
 
+build: Belirtilen image’ı build edip yükler.
 
 ```
 
