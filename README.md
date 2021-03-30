@@ -29,6 +29,7 @@ Docker Daemon tarafından Linux çekirdeği içerisinde birbirinden izole olarak
 
 Docker Daemon ile çalıştırılacak Container’ların baz alacağı işletim sistemi veya başka Image’ı, dosya sisteminin yapısı ve içerisindeki dosyaları, koşturacağı programı (veya bazen çok tercih edilmemekle birlikte programları) belirleyen ve içeriği metin bazlı bir Dockerfile (yazımı tam olarak böyle, ne dockerfile ne DockerFile ne de DOCKERFILE) ile belirlenen binary’ye verilen isimdir.
 
+
 Docker, koşturulacak Container’ların iskeletini oluşturan her bir Image’ın bir Dockerfile ile tanımlanmasını gerekli kılar. Bu Dockerfile içerisinde Image’ın hangi Image’ı baz aldığı (miras aldığı), hangi dosyaları içerdiği ve hangi uygulamayı hangi parametrelerle koşturacağı açık açık verilir. 
 
 ### Docker Daemon (Docker Engine)
